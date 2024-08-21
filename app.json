@@ -7,6 +7,10 @@
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
+    "extra": {
+      "apiUrl": "https://exercisedb.p.rapidapi.com/exercises",
+      "apiKey": "852beffc19msh8c9a1c87aacac72p1e66adjsn1e3038c6a14d"
+    },
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
